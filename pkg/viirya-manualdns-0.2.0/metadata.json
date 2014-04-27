@@ -1,0 +1,25 @@
+{
+  "name": "viirya-manualdns",
+  "version": "0.2.0",
+  "source": "UNKNOWN",
+  "author": "viirya",
+  "license": "MIT License",
+  "summary": "Tiny puppet module for manually setting domain servers",
+  "description": "This module is used to manually set up domain servers for compuing nodes.",
+  "project_page": "https://github.com/viirya/puppet-manualdns",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "LICENSE": "8c84d873f02aa3440c55ba7fd4d47482",
+    "Modulefile": "bbbac3ac17e26b4886cb8999ab37d305",
+    "README": "258da2392dd3cd07c043059053215ec5",
+    "manifests/init.pp": "f8dd1d7fe18ff1c15105cf641f0f7416",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "templates/resolv_base.erb": "7714e4227fc63472b815bfa7f9ef454b",
+    "tests/init.pp": "94fead5ff8231264598bf0d54a908604"
+  }
+}

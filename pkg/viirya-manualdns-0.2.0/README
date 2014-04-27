@@ -1,0 +1,4 @@
+manualdns
+
+A tiny puppet module used to manually set up domain servers for easily managing computing servers.
+
